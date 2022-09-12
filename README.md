@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **AWS, Android, Spring Boot, SQL**
 
-- 👨‍💻 All of my projects are available at [Taxi Calling App](https://humamul-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio Link](https://humam-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL**
 
