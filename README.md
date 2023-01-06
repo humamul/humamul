@@ -8,11 +8,11 @@ organization where I can contribute and learn. 😎</h3>
 
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **AWS, Android, Spring Boot, SQL**
+- 🌱 I’m currently learning **AWS, Android**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://humam-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL, Spring Boot, Spring Security (JWT)**
 
 - 📫 How to reach me **humam.alam19@gmail.com**
 
