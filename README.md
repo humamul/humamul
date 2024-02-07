@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Humam Ul Islam</h1>
 
-<h3 align="center">Ambitious and aspiring Backend Developer with a
+<h3 align="center">1 year + Backend Developer with a
 specialization in Java, MySQL, RDBMS, Spring Boot, and
 REST API, passionate about coding and learning new
-technologies. Looking forward to working to join an
-organization where I can contribute and learn. 😎</h3>
+technologies. Now heading towards to be a Full Stack Developer 😎</h3>
 
 <img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **AWS, Android**
+- 🌱 I’m currently learning **Angular, devops**
 
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://humam-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL, Spring Boot, Spring Security (JWT)**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL, Spring Boot, Spring Security (JWT), Angular**
 
 - 📫 How to reach me **humam.alam19@gmail.com**
 
