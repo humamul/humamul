@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Java Backend Specialist | 2+ Years Experience</h3>
 
 
-### 📄 Professional Summary
+# 📄 Professional Summary
 Result-oriented Java Backend Developer with professional experience in designing scalable RESTful APIs. Expert in Java, Spring Boot, and database optimization. Committed to writing clean, maintainable code and implementing robust security like JWT and Spring Security.
 
 <p align="center">
