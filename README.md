@@ -2,6 +2,10 @@
 
 <h3 align="center">Software Engineer | Java Backend Specialist | 2+ Years Experience</h3>
 
+
+### 📄 Professional Summary
+Result-oriented Java Backend Developer with professional experience in designing scalable RESTful APIs. Expert in Java, Spring Boot, and database optimization. Committed to writing clean, maintainable code and implementing robust security like JWT and Spring Security.
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" />
 </p>
@@ -51,6 +55,3 @@
 [![](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ---
-
-### 📄 Professional Summary
-Result-oriented Java Backend Developer with professional experience in designing scalable RESTful APIs. Expert in Java, Spring Boot, and database optimization. Committed to writing clean, maintainable code and implementing robust security like JWT and Spring Security.
