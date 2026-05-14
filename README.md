@@ -1,55 +1,45 @@
 <h1 align="center">Hi 👋, I'm Humam Ul Islam</h1>
 
-<h3 align="center">1 year + Backend Developer with a
-specialization in Java, MySQL, RDBMS, Spring Boot, and
-REST API, passionate about coding and learning new
-technologies. Now heading towards to be a Full Stack Developer 😎</h3>
+<h3 align="center">Software Engineer | Java Backend Specialist | 2+ Years Experience</h3>
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280" />
+</p>
 
-- 🌱 I’m currently learning **Angular, devops**
+- ⚡ **Background:** Software Engineer with 2+ years of experience in building scalable microservices and high-concurrency systems.
+- 🛠️ **Current Focus:** Mastered **Java & Spring Boot**; now deep-diving into **System Design (HLD/LLD)** and **Cloud DevOps**.
+- 🚀 **Past Impact:** Managed multi-tenant architectures and architected real-time telemetry systems using **ClickHouse**.
+- 🌱 Currently learning: **Angular & Advanced DevOps (Docker/K8s)**.
+- 💬 Ask me about: **Microservices, Kafka, SQL Optimization, JWT Security, and Scalable APIs**.
+- 📫 Reach me at: **humam.alam19@gmail.com**
 
-- 👨‍💻 All of my projects are available at [Portfolio Link](https://humam-portfolio.netlify.app/)
+## 🛠️ Tech Stack & Expertise
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, My SQL, Spring Boot, Spring Security (JWT), Angular**
+**Backend & Integration**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+</p>
 
-- 📫 How to reach me **humam.alam19@gmail.com**
+**Databases & Analytics**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white" />
+</p>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1B5ua4jI8zMhwF1ndi5nLC7DQN2nhe_dC/view?usp=sharing)
-
-- ⚡ Fun fact **Tigers have striped skin, not just striped fur.**
-
-
-## 🌐Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humamul/) 
-
-
-
-# 💻Tech Stack
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=humamul&include_all_commits=true&count_private=true)
-
-
-### ✍️Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-[![](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in)
 
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=humamul&theme=react&show_icons=true&count_private=true" alt="Humam's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humamul&theme=react&layout=compact" alt="Top Languages" />
+</p>
 
+---
 
-
-
-
+### 📄 Professional Summary
+Result-oriented Java Backend Developer with professional experience in designing scalable RESTful APIs. Expert in Java, Spring Boot, and database optimization. Committed to writing clean, maintainable code and implementing robust security like JWT and Spring Security.
