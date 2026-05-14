@@ -32,12 +32,23 @@
 </p>
 
 ---
-
 # 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=humamul&theme=react&show_icons=true&count_private=true" alt="Humam's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humamul&theme=react&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=humamul&theme=react-dark&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=humamul&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
+[![](https://visitcount.itsvg.in/api?id=Hashal890&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ---
 
