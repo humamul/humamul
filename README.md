@@ -13,7 +13,7 @@ Result-oriented Java Backend Developer with professional experience in designing
 - ⚡ **Background:** Software Engineer with 2+ years of experience in building scalable microservices and high-concurrency systems.
 - 🛠️ **Current Focus:** Mastered **Java & Spring Boot**; now deep-diving into **System Design (HLD/LLD)** and **Cloud DevOps**.
 - 🚀 **Past Impact:** Managed multi-tenant architectures and architected real-time telemetry systems using **ClickHouse**.
-- 🌱 Currently learning: ** Advanced DevOps (Docker/K8s)**.
+- 🌱 Currently learning: **Advanced DevOps (Docker/K8s)**.
 - 💬 Ask me about: **Microservices, Kafka, SQL Optimization, JWT Security, and Scalable APIs**.
 - 📫 Reach me at: **humam.alam19@gmail.com**
 
